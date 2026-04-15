@@ -1,3 +1,4 @@
+
 - The top 5 customers contribute a significant portion of total revenue, showing high customer concentration.
 - Certain product categories generate much higher revenue than others, indicating key drivers of sales.
 - Some employees earn above their department average, suggesting pay variation within departments.

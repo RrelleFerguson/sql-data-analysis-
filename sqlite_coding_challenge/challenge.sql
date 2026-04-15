@@ -1,3 +1,11 @@
+-- Name: Rrelle Ferguson
+-- Tool Used: VS Code with SQLite extension
+-- 
+-- Validation:
+-- I ran each query using the SQLite extension in VS Code and checked that results matched expectations.
+-- I also tested sample queries to confirm the database was connected properly.
+
+
 -- Task1
 SELECT 
     c.first_name || ' ' || c.last_name AS customer_name,
